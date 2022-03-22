@@ -1,0 +1,18 @@
+{
+        "restaurants": [
+                {
+                        "name": "Peaky blinders",
+                        "address": "Гурского 56",
+                        "photo_url": "https://www.trapeza.by/upload/s4y_news/10634/s4y_news_photos/442/image/img_14325335424.jpeg",
+                        "phone": "+375(29)344-44-11",
+                        "website": "https://peakyblinders.by"
+                    },
+                {
+                        "name": "Charlie",
+                        "address": "Коммунистическая 4",
+                        "photo_url": "https://www.21.by/pub/news/2020/03/1583415155841946.jpg",
+                        "phone": "+375(29)175-17-51",
+                        "website": "https://charlie.relax.by"
+                    }
+            ]
+}
